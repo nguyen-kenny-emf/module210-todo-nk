@@ -1,4 +1,3 @@
-//const apiEndpoint = "https://fa-todo-backend-baqmes.azurewebsites.net/api/tasks";
 const apiEndpoint = "https://fi21-210-nguyen-capp3.bravewater-e65e6cae.northeurope.azurecontainerapps.io/api/tasks";
 
 //
